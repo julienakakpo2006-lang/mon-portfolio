@@ -102,11 +102,6 @@ ion-icon{
     height: 50px;
     border: 1px solid transparent;
 }
-@media(max-width:1250px) {
-    body{
-        display: block;
-    }
-}
 
 
 
